@@ -18,6 +18,10 @@ working on ...
 - ⚡ Fun fact: ...
 --> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACORN0415)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+### algorithm ( BaekJoon )
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksthdgns3)](https://solved.ac/profile/acorn0415)
 
 ## :office: Career
 
