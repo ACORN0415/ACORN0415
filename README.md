@@ -21,7 +21,7 @@ working on ...
 <br>
 
 ### algorithm ( BaekJoon )
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksthdgns3)](https://solved.ac/profile/acorn0415)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=acorn0415)](https://solved.ac/profile/acorn0415)
 
 ## :office: Career
 
