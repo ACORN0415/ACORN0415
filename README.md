@@ -33,7 +33,8 @@ working on ...
 |**Research activities**| 2016.03 ~ 	| 31<sup>th</sup> 회원 	| **Soongsil University Electronic Exhibition** |
 |**External activities**| 2020.09 ~ 2020.12 	|  2020 IoT 스마트 메이커스 프로그램	| **SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY** |
 |**External activities**| 2021.07 ~ 	| Unity를 이용한 AR/VR 실습교육 | **Soongsil University** |
-|**:office: Employment**| 2021.09 ~	| **Front-end 인턴** 	| **CSLEE** |
+|**:office: Employment**| 2021.09 ~ 2021.12	| **Front-end 인턴** 	| **CSLEE** |
+|**:office: Employment**| 2022.06.15 ~ 	| **개발** 	| **티맥스에듀** |
 <br>
 
 ## :wrench: My Skill Set
