@@ -24,7 +24,7 @@ working on ...
 
 ### algorithm ( BaekJoon )
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=acorn0415)](https://solved.ac/profile/acorn0415)
-## most user language
+### most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACORN0415)](https://github.com/ACORN0415/github-readme-stats)
 
 ## :office: Career
